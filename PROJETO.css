@@ -1,0 +1,61 @@
+.alice {
+background-image: url("bak.png");
+border-radius: 15%;
+background-size: 400px;
+background-position: center;
+width: 400px;
+background-repeat: no-repeat;
+}
+
+.lala {
+background-position: center;
+}
+
+.ado {
+width: 100%;
+background-size: 100%;
+background-position: center;
+}
+
+.text {
+width: 50px;
+margin: 10px;
+}
+
+.wei {
+color:rgb(0, 0, 0);
+background-color: #ff5757b0;
+margin-bottom: color(#ff5757b0);
+
+}
+.i {
+    color:rgb(0, 0, 0);
+ background-color: #ff5757b0;
+ margin-bottom: color(#ff5757b0);
+ align-items: center;
+}
+
+.louco {
+background-color: #E8E9E1;
+width: 100%;
+background-position: center;
+color: rgba(0, 0, 0, 0.845);
+}
+
+
+.meo {
+width: 100%;
+background-size: 100%;
+background-position: center;
+}
+
+#Sala {
+    margin-left: 11px;
+  }
+  
+.ali{
+background-color: #E8E9E1;
+width: 100%;
+background-position: center;
+color:rgba(41, 37, 37, 0.845);
+}
