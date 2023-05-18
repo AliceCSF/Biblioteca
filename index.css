@@ -1,0 +1,36 @@
+h1, h2 {
+    text-align: center;
+  }
+  
+  #opcoes {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .opcao {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #eeeeee;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  .opcao:hover {
+    background-color: #ccc;
+  }
+  
+  .fundo{
+    background-image: url("campeonato.png") ;
+    min-height: 100%;
+    min-width: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-size: 100% 100%;
+    padding: 0%;
+  }
